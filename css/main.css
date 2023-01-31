@@ -1,0 +1,41 @@
+.site_input{
+    width: 180px;
+    height: 20px;
+    padding: 12px;
+    border-radius: 6px;
+    margin-right: 20px;
+    
+}
+
+
+.site_input2{
+    width: 180px;
+    height: 20px;
+    padding: 12px;
+    border-radius: 6px;
+    margin-right: 20px;
+    
+}
+
+.site_btn{
+    width: 110px;
+    height: 40px;   
+    background-color: aqua;
+}
+
+
+.oldidan{
+    width: 110px;
+    height: 40px;   
+    margin-top: 20px;
+    background-color: aqua; 
+}
+
+
+
+.orqadan{
+    width: 110px;
+    height: 40px;   
+    margin-top: 20px;
+    background-color: aqua; 
+}
